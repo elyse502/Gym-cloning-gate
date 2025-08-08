@@ -11,7 +11,7 @@
 
 @media (max-width: 640px) {
   a.active {
-    background-color: black !important;
+    background-color: rgb(247, 163, 9)!important;
     color: white;
   }
 }
